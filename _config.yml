@@ -1,11 +1,11 @@
 # Site settings
 author: Bryce Ancheta
-title: 
+title: Investing in my future
 header-img: img/home-bg.png
 email: bryceancheta@gmail.com
 copyright_name: Bryce Ancheta
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why i'm here
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  otakumaa
